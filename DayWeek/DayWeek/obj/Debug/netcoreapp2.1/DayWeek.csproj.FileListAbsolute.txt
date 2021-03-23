@@ -1,0 +1,11 @@
+C:\папка\CS\DayWeek\DayWeek\bin\Debug\netcoreapp2.1\DayWeek.deps.json
+C:\папка\CS\DayWeek\DayWeek\bin\Debug\netcoreapp2.1\DayWeek.runtimeconfig.json
+C:\папка\CS\DayWeek\DayWeek\bin\Debug\netcoreapp2.1\DayWeek.runtimeconfig.dev.json
+C:\папка\CS\DayWeek\DayWeek\bin\Debug\netcoreapp2.1\DayWeek.dll
+C:\папка\CS\DayWeek\DayWeek\bin\Debug\netcoreapp2.1\DayWeek.pdb
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.csprojAssemblyReference.cache
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.csproj.CoreCompileInputs.cache
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.AssemblyInfoInputs.cache
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.AssemblyInfo.cs
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.dll
+C:\папка\CS\DayWeek\DayWeek\obj\Debug\netcoreapp2.1\DayWeek.pdb
