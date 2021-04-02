@@ -1,0 +1,11 @@
+C:\папка\С# project\list\list\bin\Debug\netcoreapp2.1\list.deps.json
+C:\папка\С# project\list\list\bin\Debug\netcoreapp2.1\list.runtimeconfig.json
+C:\папка\С# project\list\list\bin\Debug\netcoreapp2.1\list.runtimeconfig.dev.json
+C:\папка\С# project\list\list\bin\Debug\netcoreapp2.1\list.dll
+C:\папка\С# project\list\list\bin\Debug\netcoreapp2.1\list.pdb
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.csprojAssemblyReference.cache
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.csproj.CoreCompileInputs.cache
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.AssemblyInfoInputs.cache
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.AssemblyInfo.cs
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.dll
+C:\папка\С# project\list\list\obj\Debug\netcoreapp2.1\list.pdb
